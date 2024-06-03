@@ -1,4 +1,4 @@
-Tento kód představuje konzolovou hru Plinko, kde disk padá přes desku s kolíky a nakonec dopadne do jedné z pozic, čímž hráč získá určité skóre. Níže je popis jednotlivých částí kódu:
+Toto je hra kde disk padá přes desku s kolíky a nakonec dopadne do jedné z pozic, čímž hráč získá určité skóre. Tady je popis:
 
 ### 1. Deklarace a inicializace proměnných
 
